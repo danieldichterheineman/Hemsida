@@ -362,3 +362,22 @@ header {
   color: #fff;
   background-attachment: fixed;
 }
+
+blockquote {
+  padding: 2%;
+  font-style: italic;
+  line-height: 145%;
+  /* font-size: 70%; */
+  /* border-radius: 25%; */
+}
+
+cite {
+  font-size: 90%;
+  margin-top: 25px;
+}
+
+cite img {
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
